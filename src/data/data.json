@@ -1,0 +1,183 @@
+{
+  "Header": {
+    "title": "Lideramos en Tecnología, Innovación y Soporte.",
+    "paragraph": "Ayudamos a nuestros clientes a mantenerse a la vanguardia con soluciones tecnológicas avanzadas y soporte continuo."
+  },
+  "About": {
+    "paragraph": "Fundada en 2002, nuestra empresa comenzó ofreciendo soporte a pequeñas empresas con necesidades informáticas y de comunicaciones. Con el tiempo, expandimos nuestros servicios a formación, reparación de equipos y soporte técnico. Actualmente, atendemos a más de 300 clientes y continuamos nuestra expansión con una nueva oficina en Madrid.",
+    "Why": [
+      "Soporte técnico especializado",
+      "Formación continua garantizada",
+      "Soluciones tecnológicas avanzadas",
+      "Seguridad y confiabilidad"
+    ],
+    "Why2": [
+      "Atención personalizada eficiente",
+      "Innovación constante",
+      "Infraestructura profesional",
+      "LExpansión y crecimiento sólido"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Mantenimiento",
+      "text": "Departamento IT externo, mantenimiento, actualización y consultoría para optimizar eficiencia tecnológica y competitividad empresarial."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Integración",
+      "text": "Seleccionamos, personalizamos e integramos equipos y software, con análisis y soporte para adquisiciones informáticas."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "En la nube",
+      "text": "Acceda a sus datos desde cualquier lugar, con soluciones en la nube para mayor flexibilidad, seguridad y ahorro"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Servicios en la Nube Eficientes",
+      "text": "Optimice su infraestructura IT con soluciones en la nube escalables que ofrecen flexibilidad y reducen costos operativos."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Formación",
+      "text": "Formación personalizada con aulas equipadas, orientada a las necesidades tecnológicas y entorno de trabajo de su empresa."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Gestión",
+      "text": "Optimizamos, protegemos y actualizamos su infraestructura tecnológica, garantizando rendimiento, seguridad y soporte continuo."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"El equipo de CONSIS nos ayudó a optimizar nuestros procesos con soluciones tecnológicas innovadoras.\"",
+      "name": "Javier López"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Gracias a su asesoría, nuestra empresa mejoró su infraestructura digital y aumentó su eficiencia. Son expertos en su campo.\"",
+      "name": "Carlos Méndez"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Un servicio excepcional. Nos brindaron estrategias tecnológicas que transformaron nuestra forma de trabajar. Totalmente recomendados.\"",
+      "name": "Diego Torres"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Su equipo nos guió en la implementación de nuevas tecnologías, haciendo que la transición fuera fluida y efectiva. Gran conocimiento.\"",
+      "name": "Ana Gómez"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Desde el primer contacto, entendieron nuestras necesidades y propusieron soluciones adaptadas a nuestro negocio. Excelente experiencia.\"",
+      "name": "Andrés Castillo"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Muy satisfechos con su trabajo. Nos ayudaron a modernizar nuestra empresa con herramientas digitales que han mejorado nuestra productividad.\"",
+      "name": "María Fernández"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.png",
+      "name": "Carlos Serra",
+      "job": "Director Técnico"
+    },
+    {
+      "img": "img/team/02.png",
+      "name": "Cristina Serra",
+      "job": "Servicio Técnico"
+    },
+    {
+      "img": "img/team/03.png",
+      "name": "Pedro Pablo Villafruela",
+      "job": "Ingeniero Telecomunicaciones"
+    },
+    {
+      "img": "img/team/04.jpeg",
+      "name": "Joan Ymbern García",
+      "job": "Consultor Técnico"
+    }
+  ],
+  "Contact": {
+    "address": "Av. Luxemburgo 18, CC La plaza 2do, Local 62. Urb Eurovillas, Nuevo Baztán C.P 28514 Madrid",
+    "phone": "+34 918 725 446",
+    "email": "comercial@consis.es",
+    "facebook": "https://www.facebook.com/consis.es",
+    "youtube": "https://www.linkedin.com/company/consis-consultoria-de-sistemas-/"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Cubrinos necesidades informáticas",
+      "text": "Asesoría informática experta: ingenieros en telecomunicaciones con amplia experiencia en sistemas y comunicaciones."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Expertos en servicios tecnológicos",
+      "text": "Desde 2002, creciendo con más de 300 clientes, soporte técnico, formación y expansión en Madrid"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Empresa del Corredor del Henares",
+      "text": "Consultoría, soporte y formación para empresas, con soluciones en redes, seguridad y comunicaciones."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Instalaciones tecnológicas avanzadas",
+      "text": "Ofrecemos soporte técnico, formación, reparación y pruebas en nuestras instalaciones con aulas, laboratorios y simuladores empresariales."
+    }
+  ]
+}
